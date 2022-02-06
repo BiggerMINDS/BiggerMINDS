@@ -8,7 +8,7 @@ BiggerMINDS was founded in June 2021 by Joma with the idea to create a unique an
 
 **The Vision**
 
-BiggerMINDS vision is to provide Hybrid Finances as a Service (HFS) and blockchain awareness to everyone. BiggerMINDS facilitates simplicity by being a one-stop shop in the Avalanche Network. We are an innovative company pushing the limits.
+BiggerMINDS vision is to provide Hybrid Finances as a Service (HFS) and blockchain awareness to everyone. BiggerMINDS offers simplicity by being a one-stop shop in the Avalanche Network. We are an innovative company pushing the limits.
 
 BiggerMINDS native currency is $MIND. 
 
