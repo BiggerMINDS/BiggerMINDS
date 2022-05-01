@@ -1,5 +1,4 @@
-![BiggerMinds TM-01](https://user-images.githubusercontent.com/99035372/166128148-befd9f4f-c0e7-4122-8233-95532901ab60.png)
-**BiggerMINDS**
+![BiggerMinds TM-02](https://user-images.githubusercontent.com/99035372/166128161-fb4bb2c8-54a8-462b-9ffd-f0ad13dbe34f.jpg)
 
 BiggerMINDS purpose is to provide a One-Stop Shop on the blockchain. 
 The ultimate goal is to provide services focused on delivering utility 
