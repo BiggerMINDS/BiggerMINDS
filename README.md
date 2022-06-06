@@ -1,4 +1,5 @@
-<img width="1911" alt="Screen Shot 2022-04-30 at 8 24 02 PM" src="https://user-images.githubusercontent.com/99035372/166128189-d4ef1713-b6b0-4976-bf4b-8c6fc51cbb62.png">
+![BM_Logo_WhiteBig](https://user-images.githubusercontent.com/99035372/172101454-4361f0b1-6969-4f1a-82a8-2c7cd26c566c.png)
+
 
 
 BiggerMINDS purpose is to provide a One-Stop Shop on the blockchain. 
